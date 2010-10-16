@@ -1,3 +1,7 @@
+h1. Setup
+
+@ln -s ~/.oh-my-zsh/zshrc .zshrc
+
 A handful of functions, auto-complete helpers, and stuff that makes you shout...
 
 bq. "OH MY ZSHELL!"
